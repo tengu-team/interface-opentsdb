@@ -1,0 +1,4 @@
+name: opentsdb
+summary: opentsdb interface
+version: 1
+#repo: https://github.com/tengu-team/interface-kapacitor.git
